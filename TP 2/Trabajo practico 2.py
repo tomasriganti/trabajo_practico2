@@ -27,8 +27,6 @@ def sobel_horizontal(matriz_1):
 
     matriz_sobel_x = 1
 
-asdfffffffffff
-    
 
     return matriz_sobel_x
 
