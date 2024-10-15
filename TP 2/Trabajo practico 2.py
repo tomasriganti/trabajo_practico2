@@ -26,6 +26,7 @@ def sobel_horizontal(matriz_1):
     sobel_x = np.array([[-1, 0, 1],[-2, 0, 2],[-1, 0, 1]])
 
     matriz_sobel_x = 1
+    
 
     return matriz_sobel_x
 
